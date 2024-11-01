@@ -5,9 +5,9 @@ Use space mission data from 1957 onwards to analyse and visualise trends over ti
 
 ## Example Output
 
-![Screenshot 2024-11-01 at 10 46 11 AM](https://github.com/user-attachments/assets/1e2bf92f-55e9-4bdd-b91d-177c38252a5b)
+![Screenshot 2024-11-01 at 4 48 43 PM](https://github.com/user-attachments/assets/dfb4ba2c-4032-488e-bf89-f23b82e34855)
 
 
 ## How to use
 
-run the 
+run the Space_Missions_Analysis_Visualization.ipynb file in jupyter notebook.
